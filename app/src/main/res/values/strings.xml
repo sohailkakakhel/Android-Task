@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Sofit Consultancy Task</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="item1">Home</string>
+    <string name="item2">Services</string>
+    <string name="item3">Posts</string>
+    <string name="title">Navigation Drawer</string>
+    <string name="paymentHistory">Payment History</string>
+    <string name="govt_services">Government Services</string>
+    <string name="other_services">Other Services</string>
+    <string name="description">Showcase natural environments that we all share, anyone can relate to nature images. Nature features bold, irregular, exciting lines and colors, which grab our attention</string>
+
+    <string name="url1">https://image.flaticon.com/icons/png/512/1908/1908082.png</string>
+    <string name="url2">https://image.flaticon.com/icons/png/512/3774/3774278.png</string>
+    <string name="url3">https://image.flaticon.com/icons/png/512/2830/2830289.png</string>
+    <string name="url4">https://image.flaticon.com/icons/png/512/3141/3141285.png</string>
+
+    <string name="url5">https://image.flaticon.com/icons/png/512/653/653224.png</string>
+    <string name="url6">https://image.flaticon.com/icons/png/512/686/686348.png</string>
+    <string name="url7">https://image.flaticon.com/icons/png/512/1086/1086544.png</string>
+    <string name="url8">https://image.flaticon.com/icons/png/512/3468/3468821.png</string>
+
+
+</resources>
